@@ -1,2 +1,2 @@
-# wp-disable-emojis
-Disables emojis functionality of wordpress.
+# Disable emojis by Serge Liatko
+Disables emojis functionality.
