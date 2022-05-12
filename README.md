@@ -1,2 +1,2 @@
 # Disable emojis by Serge Liatko
-Disables emojis functionality.
+Disables emojis functionality in WordPress.
